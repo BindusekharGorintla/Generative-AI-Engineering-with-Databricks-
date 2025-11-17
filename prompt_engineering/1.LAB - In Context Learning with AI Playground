@@ -1,0 +1,14 @@
+LAB - In-Context Learning with AI Playground
+In this lab, we will explore the importance of providing context when using generative AI models, specifically Retrieval-Augmented Generation (RAG) models. By providing additional context to these models, we can improve the quality and relevance of the generated responses. Throughout this lab, we will go through the following steps:
+
+Lab Outline:
+
+In this lab, you will need to complete the following tasks;
+
+Task 1 : Access the Mosaic AI Playground
+
+Task 2 : Prompt which hallucinates
+
+Task 3 : Prompt which does not hallucinate
+
+Task 4 : Augmenting the prompt with additional context and analyzing the impact of additional context
