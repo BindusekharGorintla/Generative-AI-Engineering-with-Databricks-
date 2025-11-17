@@ -1,0 +1,14 @@
+Preparing Data for RAG
+In this demo, we will focus on ingesting PDF documents as a source for our retrieval process. First, we will ingest the PDF files and process them using self-managed vector search embeddings.
+
+Learning Objectives:
+
+By the end of this demo, you will be able to:
+
+Split the data into chunks that are at least as small as the maximum context window of the LLM to be used later.
+
+Describe how to appropriately choose an embedding model.
+
+Compute embeddings for each of the chunks using a Databricks-managed embedding model.
+
+Use the chunking strategy to divide up the context information to be provided to a model.
